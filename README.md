@@ -7,6 +7,7 @@
 
 #### Dataset Download
 The `PTB-XL` dataset can be downloaded from the [Physionet website](https://physionet.org/content/ptb-xl/1.0.1/).
+
 The `ICBEB2018` dataset can be downloaded from the [ICBEB Challenge website](http://2018.icbeb.org/Challenge.html).
 
 #### Setting up the environment
@@ -36,7 +37,7 @@ The `ICBEB2018` dataset can be downloaded from the [ICBEB Challenge website](htt
 
 | Name | Model link |  
 | ---- | ---------- |
-| $ECGNN_IMLENet$ | [link](https://drive.google.com/file/d/1b5JjCWfgioobdXkt99Q2bCq0mLQhdAI4/view?usp=sharing) |
+| ECGNN_IMLENet | [link](https://drive.google.com/file/d/1b5JjCWfgioobdXkt99Q2bCq0mLQhdAI4/view?usp=sharing) |
 
 
 
