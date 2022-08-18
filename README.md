@@ -31,13 +31,11 @@ The `ICBEB2018` dataset can be downloaded from the [ICBEB Challenge website](htt
 - The logs are saved in `logs/` directory.
 - The model checkpoints are saved in `checkpoints/` directory.
 
-## Getting the weights :
+## Getting Start with the trained weights :
 
-> Download the weights for several models trained on the PTB-XL dataset.
+> Download the trained weights for ECGNN model trained on the PTB-XL dataset.
 
-| Name | Model link |  
-| ---- | ---------- |
-| ECGNN_IMLENet | [link](https://drive.google.com/file/d/1b5JjCWfgioobdXkt99Q2bCq0mLQhdAI4/view?usp=sharing) |
+The `ECGNN` trained weights (IMLE-Net as the feature extractor backbone) can be downloaded from the  [link](https://drive.google.com/file/d/1b5JjCWfgioobdXkt99Q2bCq0mLQhdAI4/view?usp=sharing).
 
 
 
