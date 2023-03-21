@@ -2,6 +2,7 @@
 
 # ECGNN: Enhancing Abnormal Recognition in 12-Lead ECG with Graph Neural Network 
 
+Cite: Zhao X, Liu Z, Han L, et al. ECGNN: Enhancing Abnormal Recognition in 12-Lead ECG with Graph Neural Network[C]//2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2022: 1411-1416.
 
 ## Qick started
 
