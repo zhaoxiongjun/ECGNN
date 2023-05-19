@@ -75,10 +75,8 @@ def select_dataset(dataset, Y):
         print("===do drop===")
     
     Y.index = range(len(Y))
-    train_list = list(Y[Y.strat_fold <= 8].index) + list(Y[Y.strat_fold == 10].index)[:1000]
-    train_dataset = dataset[train_list]
-    
-    # train_dataset = dataset[list(Y[Y.strat_fold <= 8].index)]
+
+    train_dataset = dataset[list(Y[Y.strat_fold <= 8].index)]
     val_dataset = dataset[list(Y[Y.strat_fold == 9].index)]
     test_dataset = dataset[list(Y[Y.strat_fold == 10].index)]
 
